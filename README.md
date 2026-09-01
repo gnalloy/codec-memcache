@@ -42,6 +42,7 @@ It does not absorb neighboring module responsibilities. Core primitives stay in 
 - `gnalloy.org/codec-memcache/ascii` (`ascii`)
 
 ## Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
 ## Common Integration Pattern
